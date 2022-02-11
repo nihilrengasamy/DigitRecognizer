@@ -1,4 +1,4 @@
-PIL == 22.0.3
+PIL 
 pandas
 numpy
 json
